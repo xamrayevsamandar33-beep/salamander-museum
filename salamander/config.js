@@ -5,4 +5,4 @@ export const CONFIG = {
   CONTACT_EMAIL: 'museum@example.com',
   BUCKET: 'museum',
   MAX_FILE_MB: 50
-
+};
