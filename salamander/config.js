@@ -5,8 +5,8 @@
 //  NEVER put the Supabase "service_role" key in this file.
 // ============================================================
 export const CONFIG = {
-  SUPABASE_URL: 'https://YOUR-PROJECT.supabase.co',
-  SUPABASE_ANON_KEY: 'YOUR-ANON-PUBLIC-KEY',
+  SUPABASE_URL:'https://eecnssmnoqxnzhcrshak.supabase.co
+  SUPABASE_ANON_KEY:'sb_publishable_L2uRJBM95Bpn7ZDop7NgJA_mk81KKoz
 
   // The real, final public address of the website (used inside QR codes).
   // Example: 'https://museum.yourdomain.com'
